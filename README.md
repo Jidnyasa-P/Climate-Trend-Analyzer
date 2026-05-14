@@ -83,23 +83,6 @@ Climate-Trend-Analyzer/
 
 ---
 
-## 7. Learning Outcomes & Interview Presentation
+## 7. Author
+**[Jidnyasa Patil]** - *Data Science Student & Developer*
 
-### Resume Bullet Points
-- Built a full-stack Climate Trend dashboard capable of processing 50 years of environmental telemetry.
-- Implemented an AI-driven anomaly detection system using Google Gemini to identify historical temperature spikes (e.g., El Niño effects).
-- Developed a virtual simulation framework for climate forecasting used to showcase "Proof of Work" for environmental data analyst roles.
-
-### Top Interview Questions (Sample)
-1. **Explain the Anomaly Detection logic.**
-   *Answer*: We used statistical thresholds (Moving Average + 2 StDev) and validated outliers using GenAI to confirm historical climate events.
-2. **How do you handle messy climate data?**
-   *Answer*: Used Pandas for vectorized cleaning: handling NaNs via median interpolation and normalizing scales for ML readiness.
-
----
-
-## 8. Author
-**[Your Name]** - *Data Science Student & Developer*
-
----
-*Disclaimer: This project uses a virtual simulation of climate data for educational and portfolio purposes.*
