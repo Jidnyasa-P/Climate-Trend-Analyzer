@@ -1,0 +1,8 @@
+{
+  "name": "Climate Trend Analyzer",
+  "description": "A professional data science project for analyzing historical climate patterns, detecting anomalies, and predicting future trends using AI-driven insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
